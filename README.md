@@ -23,8 +23,8 @@ Pastikan Anda memiliki versi terbaru dari Flutter yang terinstal di sistem Anda.
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/jacky-htg/password_manager_app.git
+cd password_manager_app
 ```
 
 2. Install dependensi:
