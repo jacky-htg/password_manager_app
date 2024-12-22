@@ -63,16 +63,17 @@ flutter run
 ## Struktur Direktori
 ```bash
 lib/
-├── main.dart                  # Titik masuk aplikasi
+├── main.dart                       # Titik masuk aplikasi
 ├── screens/
-│   ├── password_list_screen.dart  # Tampilan daftar password
-│   └── password_form.dart        # Form tambah/edit password
+│   ├── password_list_screen.dart   # Tampilan daftar password
+│   └── password_form.dart          # Form tambah/edit password
 ├── models/
-│   └── password.dart            # Model data untuk password
+│   ├── profile.dart                # Tampilan daftar password
+│   └── password.dart               # Model data untuk password
 └── helpers/
-    ├── encryption_helper.dart  # Logika enkripsi dan dekripsi
-    ├── database_password.dart  # Helper untuk operasi database pada password
-    └── database_profile.dart   # Helper untuk operasi database pada profil pengguna
+    ├── encryption_helper.dart      # Logika enkripsi dan dekripsi
+    ├── database_password.dart      # Helper untuk operasi database pada password
+    └── database_profile.dart       # Helper untuk operasi database pada profil pengguna
 ```
 
 ## Pengujian
