@@ -96,4 +96,4 @@ Jika Anda ingin berkontribusi pada proyek ini, ikuti langkah-langkah berikut:
 5. Buat pull request.
 
 ## Lisensi
-Aplikasi ini dilisensikan di bawah GNU GPL License - lihat [LICENSE](./license) untuk lebih lanjut.
+Aplikasi ini dilisensikan di bawah GNU GPL License - lihat [LICENSE](./LICENSE) untuk lebih lanjut.
